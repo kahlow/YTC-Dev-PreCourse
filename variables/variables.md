@@ -1,7 +1,5 @@
 #Variables
 
----
-
 ##Definition
 
 The current (10/16/2014) wikipedia definition of a variable is this:
