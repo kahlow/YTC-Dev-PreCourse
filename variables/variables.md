@@ -88,14 +88,14 @@ It’s easy to see that you can’t add text to a number but what you don’t re
 
 Most languages contains these types:
 
-Integer - Whole numbers (no decimal)
-Real Number - all numbers (with decimals and negatives)
-String - Text
-Boolean - True/False
-Objects - We’ll deal with this much much later
+* Integer - Whole numbers (no decimal)
+* Real Number - all numbers (with decimals and negatives)
+* String - Text
+* Boolean - True/False
+* Objects - We’ll deal with this much much later
 
 There are more types out there but they mostly all boil down to those 4 above. We’ll see examples of these Types in your exercises after this section. Trust me, it’ll be fun.
 
 Quick note:
 
->Let’s talk about storage! Variables are actually stored in your computer’s RAM. Your computer is smart enough to create storage spaces in your RAM to keep these variables. If you create a million variables you could possibly fill up your RAM and slow your computer down. Be mindful of how you work with variables locally so you don’t impact performance of your application. This isn’t something you’ll need to worry about now, but it’s something you should store in the back of your mind.
+>Let’s talk about storage. Variables are actually stored in your computer’s RAM. Your computer is smart enough to create storage spaces in your RAM to keep these variables. If you create a million variables you could possibly fill up your RAM and slow your computer down. Be mindful of how you work with variables locally so you don’t impact performance of your application. This isn’t something you’ll need to worry about now, but it’s something you should store in the back of your mind.
