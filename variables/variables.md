@@ -1,6 +1,6 @@
 #Variables
 
-
+ 
 The current (10/16/2014) wikipedia definition of a variable is this:
 
 >In computer programming, a variable or scalar is a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity or information referred to as a value. The variable name is the usual way to reference the stored value; this separation of name and content allows the name to be used independently of the exact information it represents. The identifier in computer source code can be bound to a value during run time, and the value of the variable may thus change during the course of program execution.
