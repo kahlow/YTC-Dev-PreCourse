@@ -8,17 +8,17 @@ The current (10/16/2014) wikipedia definition of a variable is this:
 
 This is a great definition and contains the basic concepts of what a variable is but this can be a little overwhelming so let’s break down what this text says.
 
-*"a variable or scalar is a storage location"* - Variables are a way for a programmer to store data in the computer’s memory to be used throughout the program. For example, if you as a developer are making a very simple calculator program that adds two numbers together, you’ll want to be able to store the two numbers from your users and add them together. This follows the basic concepts in algebra. Let’s take a look at how you would create a function in algebra that adds two unknown numbers together and then we can use an example using PHP! Woohoo!
+*"a variable or scalar is a storage location"* - Variables are a way for a programmer to store data in the computer's memory to be used throughout the program. For example, if you as a developer are making a very simple calculator program that adds two numbers together, you’ll want to be able to store the two numbers from your users and add them together. This follows the basic concepts in algebra. Let's take a look at how you would create a function in algebra that adds two unknown numbers together and then we can use an example using PHP! Woohoo!
 
 ####The Algebra way:
 
 Function: `a + b = c`
 
-Given a = 2 and b = 1, find the value of c. We can easily solve this and find that c equals a billion… I mean 3. The values ‘a’, ‘b’, and ‘c’ are your variables. Is this starting to make sense? I hope so. Let’s translate this into a program and you’ll be able to see this in action. You might be surprised how similar this is in code.
+Given a = 2 and b = 1, find the value of c. We can easily solve this and find that c equals a billion… I mean 3. The values ‘a’, ‘b’, and ‘c’ are your variables. Is this starting to make sense? I hope so. Let's translate this into a program and you'll be able to see this in action. You might be surprised how similar this is in code.
 
 ####The Code way:
 
-(I’m using something called pseudo code. What that means is I’m using plain text to write down general concepts so that I can extract you, dear student, from having to deal with language syntax. That comes later.)
+(I’m using something called pseudo code. What that means is I'm using plain text to write down general concepts so that I can extract you, dear student, from having to deal with language syntax. That comes later.)
 
 Simple calculator program:
 
@@ -29,9 +29,9 @@ Simple calculator program:
 
 This program prints out the value of ‘c’. Just like in Algebra, ‘a’, ‘b’ and ‘c’ are your variables. 
 
-Wasn’t that easy? Let’s mix it up a bit. I’m going to you show you that same program but make it a little longer and more complicated. Don’t worry, you’ll be able to figure it out.
+Wasn't that easy? Let's mix it up a bit. I'm going to you show you that same program but make it a little longer and more complicated. Don't worry, you'll be able to figure it out.
 
-Let’s start with the original program and then kick it up a notch. 
+Let's start with the original program and then kick it up a notch. 
 
     a = 2
     b = 1
