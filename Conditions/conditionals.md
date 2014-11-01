@@ -37,6 +37,7 @@ Let’s complicate conditional statements since you’re so smart. There are neg
     print a
 
 Output
+
     2
 
 Because ‘WeShould’ is true, the first condition is 2 and the “else” is never evaluated. Let’s reverse that.
@@ -52,6 +53,7 @@ Because ‘WeShould’ is true, the first condition is 2 and the “else” is n
     print a
 
 Output
+
     3
 
 Because ‘WeShould’ was false, the ‘else’ condition was met and the variable ‘a’ was set to 3. 
@@ -62,15 +64,15 @@ Let’s back up a little bit and understand examine that if statement. You can b
 
 If the condition after the if is true, then do the thing contained in the if statement. When we were checking if the variable ‘WeShould’ equaled true we were using something called an operator. Here are some examples of operators:
 
-=
->
-<
-+
--
-/
-And
-Or
-Not
+    =
+    >
+    <
+    +
+    -
+    /
+    And
+    Or
+    Not
 
 Using these operators let’s make a really insane if statement. I’ll break it down and show you what’s really going on later.
 
