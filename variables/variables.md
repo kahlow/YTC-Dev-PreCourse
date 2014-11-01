@@ -71,6 +71,8 @@ Output
 
 Variables are just containers for your data. You can change their contents whenever you want. This is a very valuable function of programming. You’ll use it in every program.
 
+##Types
+
 Now that we have a general understanding of what a variable is and how it is used, let’s make it more complicated. Bring it, right?! You can handle it.
 
 Let’s look at that calculator program again:
@@ -99,6 +101,6 @@ Most languages contains these types:
 
 There are more types out there but they mostly all boil down to those 4 above. We’ll see examples of these Types in your exercises after this section. Trust me, it’ll be fun.
 
-Quick note:
+## Memory
 
->Let’s talk about storage. Variables are actually stored in your computer’s RAM. Your computer is smart enough to create storage spaces in your RAM to keep these variables. If you create a million variables you could possibly fill up your RAM and slow your computer down. Be mindful of how you work with variables locally so you don’t impact performance of your application. This isn’t something you’ll need to worry about now, but it’s something you should store in the back of your mind.
+Let’s talk about storage. Variables are actually stored in your computer’s RAM. Your computer is smart enough to create storage spaces in your RAM to keep these variables. If you create a million variables you could possibly fill up your RAM and slow your computer down. Be mindful of how you work with variables locally so you don’t impact performance of your application. This isn’t something you’ll need to worry about now, but it’s something you should store in the back of your mind.
