@@ -21,6 +21,14 @@ $num2 = 3;
 $sum = $num1 + $num2;
 
 // Let's print that to the screen
-echo "$num1 + $num2 = $sum";
+echo $num1 . " + " . $num2 . " = " . $sum . "\r\n";
+
+/* Let's change some of those variables around and see what happens */
+$num1 = 6;
+$num2 = 4;
+$sum = $num1 + $num2;
+
+// Let's print that to the screen
+echo $num1 . " + " . $num2 . " = " . $sum;
 
 ?>
