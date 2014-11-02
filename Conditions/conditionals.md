@@ -58,3 +58,27 @@ Output
     3
 
 Because ‘WeShould’ was false, the ‘else’ condition was met and the variable ‘a’ was set to 3. 
+
+##Nesting
+
+You can nest if statements. Isn't that cool?
+
+    if 2 = 2 then
+        if 3 = 3 then
+            if 4 = 4 then
+                ......
+
+Let's get crazy with it and see if you can figure out what's going on.
+
+    if true then
+        if true then
+            if true then
+                if false then
+                    print 'HERE?....Nope'
+                else
+                    print 'This is it!'
+    else
+        if true then
+            print 'HERE?....Nope'
+
+
