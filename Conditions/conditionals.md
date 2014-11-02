@@ -58,26 +58,3 @@ Output
     3
 
 Because ‘WeShould’ was false, the ‘else’ condition was met and the variable ‘a’ was set to 3. 
-
-Let’s back up a little bit and understand examine that if statement. You can break any if statement down into this formula:
-
-    if (true) then
-
-If the condition after the if is true, then do the thing contained in the if statement. When we were checking if the variable ‘WeShould’ equaled true we were using something called an operator. Here are some examples of operators:
-
-    =
-    >
-    <
-    +
-    -
-    /
-    And
-    Or
-    Not
-
-Using these operators let’s make a really insane if statement. I’ll break it down and show you what’s really going on later.
-
-    if 1 + 2 = 3 AND 2 + 2 = 4 OR 5 > 2 then
-        print “mind blown”
-
-Operators return values or perform actions. For example, the + operator returns the value of the two numbers summed together. 2 + 2 returns the value 4. The = operator used in an if statement returns true or false.  
