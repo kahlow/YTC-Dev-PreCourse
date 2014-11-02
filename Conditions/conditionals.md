@@ -32,7 +32,7 @@ Let’s complicate conditional statements since you’re so smart. There are neg
 
     if WeShould = True then
         a = 2
-        else
+    else
         a = 3
 
     print a
@@ -48,7 +48,7 @@ Because ‘WeShould’ is true, the first condition is 2 and the “else” is n
 
     if WeShould = True then
         a = 2
-        else
+    else
         a = 3
 
     print a
