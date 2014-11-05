@@ -27,3 +27,15 @@ Steps:
     Apply send layer of bread
 
 That's a very high level set of instructions. What if you had to break it down even further by instruction your hand how to pick the bread up? This exercise can lead you into an infinite amount of steps. Go ahead and take some time to see how far you can go down that rabbit hole. I'll be here when you get back.
+
+##Clean code
+Clean code is something you should strive for. In the context of this course, clean code should mean that you indent properly and keep your code organized. You should also comment your code!!
+
+###Indent
+You should indent when using conditional statements and loops. Use the tab key on your keyboard to keep your code readable!
+
+###Organized
+You should group code that interacts together. For example, don't declare a variable at the top of a function and then only reference it on the last line of your function. This causes your code to be really hard to read.
+
+###Comments
+Always comment your code. Even better, write code that comments itself. Use your variable names and workflow to explain what you're doing. For example, name your variable used to hold a person's first name 'firstName'. If your variable is named 'firstName' you won't have to comment that it's used for first names. Make sense?
