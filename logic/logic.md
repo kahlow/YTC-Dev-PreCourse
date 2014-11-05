@@ -2,7 +2,7 @@
 
 ##AND
 
-'And' is used to group two logical expressions. This means that both expressions need to agree for their results to match their values. 
+`AND` is used to group two logical expressions. This means that both expressions need to agree for their results to match their values. 
 
 Let's look at this truth table:
 
@@ -15,7 +15,7 @@ You can see that T and T is T and F and F is F. When you mix these values, T and
 
 ##OR
 
-'Or' is used to pair two logical expressions but returns the positive if one exists.
+`OR` is used to pair two logical expressions but returns the positive if one exists.
 
 Let's look at this:
 
@@ -28,7 +28,7 @@ You can see that if any value is true when grouped by an Or the result is always
 
 ##NOT
 
-'Not' is the opposite of the expression. 
+`NOT` is the opposite of the expression. 
 
 Let's look at this:
 
