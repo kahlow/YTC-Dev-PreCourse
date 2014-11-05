@@ -15,6 +15,15 @@ Next, let's get into the mindset of a developer. To do this you'll need to break
 
 Computers are really dumb. Think of your computer as the dumbest person you've ever met. Go ahead and get a mental picture of that person. Aren't they silly?
 
-Anything a computer does needs to be broken down into a simple set of instructions. They only have a general understanding of their internals but they don't know how to put them to use. That's your job.
+Anything a computer does needs to be broken down into a simple set of instructions. They only have a general understanding of their internals and they don't know how to put them to use. That's your job.
 
-One exercise that I started out with when I was in school is teaching a computer how to make a sandwich.
+One exercise that I started out with when I was in school is teaching a computer how to make a sandwich. Pretend you already have all of the ingredients in front of you.
+
+Steps:
+
+    Place bread on plate
+    Apply peanut butter to bread
+    Add bananas
+    Apply send layer of bread
+
+That's a very high level set of instructions. What if you had to break it down even further by instruction your hand how to pick the bread up? This exercise can lead you into an infinite amount of steps. Go ahead and take some time to see how far you can go down that rabbit hole. I'll be here when you get back.
