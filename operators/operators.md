@@ -1,6 +1,6 @@
 #Operators
 
->An operator is a special character that can be used to return a value or perform an action. You'll see what we mean by 'value' and 'action' below.
+An operator is a special character that can be used to return a value or perform an action. You'll see what we mean by 'value' and 'action' below.
 
 First, there are two types of operators.
 * Arithmetic
