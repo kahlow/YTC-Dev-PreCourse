@@ -24,7 +24,7 @@ Steps:
     Place bread on plate
     Apply peanut butter to bread
     Add bananas
-    Apply send layer of bread
+    Apply second layer of bread
 
 That's a very high level set of instructions. What if you had to break it down even further by instruction your hand how to pick the bread up? This exercise can lead you into an infinite amount of steps. Go ahead and take some time to see how far you can go down that rabbit hole. I'll be here when you get back.
 
