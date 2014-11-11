@@ -7,6 +7,7 @@
 * [Operators](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/operators/operators.md)
 * [Logic](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/logic/logic.md)
 * [Conditions](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/Conditions/conditionals.md)
+* [Loops](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/loops/loops.md)
 
 ###Books
 There aren't any required books for this course but I'd like to recommend some for reading outside of class. Remeber, being a developer means you will constantly be learning new things for the rest of your career!
