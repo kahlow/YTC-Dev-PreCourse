@@ -101,6 +101,18 @@ Most languages contains these types:
 
 There are more types out there but they mostly all boil down to those 4 above. We’ll see examples of these Types in your exercises after this section. Trust me, it’ll be fun.
 
-## Memory
+##Constants
+
+A constant is a variable that you mark as not being able to change. This is handy when you want to, for example, set a variable for Pi or some other constant mathematical variable.
+
+    const int Pi = 3.1415
+
+Or
+
+    const string Pi = "delicious"
+
+See how cool that is? A pragmatic approach to variables is to play it safe and make any variable that you know should never change a constant.
+
+##Memory
 
 Let’s talk about storage. Variables are actually stored in your computer’s RAM. Your computer is smart enough to create storage spaces in your RAM to keep these variables. If you create a million variables you could possibly fill up your RAM and slow your computer down. Be mindful of how you work with variables locally so you don’t impact performance of your application. This isn’t something you’ll need to worry about now, but it’s something you should store in the back of your mind.
