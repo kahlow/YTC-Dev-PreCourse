@@ -12,3 +12,11 @@
   *	48976.0
   *	False
 4. How are variables stored on your desktop computer?
+5. Circle each *valid* variable name.
+  * a
+  * 123
+  * a1
+  * Person
+  * PEOPLE
+  * Banananananananananananana
+  * variable!!!
