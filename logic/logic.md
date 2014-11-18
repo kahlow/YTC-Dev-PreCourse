@@ -1,5 +1,18 @@
 #Logic
 
+Logic is the heart of programming. Logic is problem solving using variables and concepts to make decisions. When I say "concepts to make decisions", I mean that you have a goal or problem you're trying to solve and you create a set of ideas and instructions to complete that task.
+
+The wikipedia entry on programming logic gives a great definition
+
+>A program written in a logic programming language is a set of sentences in logical form, expressing facts and rules about some problem domain.
+
+There are a few *operators* that are the building blocks of logic.
+* AND
+* OR
+* NOT
+
+These can be clearly defined in truth tables which you will see below.    
+
 ##AND
 
 `AND` is used to group two logical expressions. This means that both expressions need to agree for their results to match their values. 
@@ -45,7 +58,7 @@ Output:
     This was false!
 
 ##Conditional Statements
-We've seen conditonal statements before (if statements).
+We've seen conditional statements before (if statements).
 
 Let's look at the following expression and I want you to think about what in the world the answer could be.
 
