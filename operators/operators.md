@@ -69,6 +69,28 @@ Output
     4
     1
 
+##Relational Operators
+
+Relational operators are used when comparing two values or expressions.
+
+* >  | greater than
+* <  | less than
+* == | equal to
+* >= | greater than or equal to
+* <= | less than or equal to
+
+These operators return `TRUE` or `FALSE`
+
+Examples
+
+    3 > 1 \\ true
+    3 < 1 \\ false
+    3 == 1 \\ false
+    3 == 3 \\ true
+    3 >= 3 \\ true
+    3 >= 4 \\ false
+    3 <= 4 \\ true
+
     
 ##Logic Operators
 
