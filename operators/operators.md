@@ -27,7 +27,7 @@ Let's take a look at some examples of operators and you'll see that it's an easy
 Note:
 >In our pseudo code we've been using the equals sign '=' to assign or compare values. Normally you'll see the use of a double equals == to compare values.
 
-There are many many more operators than the ones listed. To see a list of operators by programming langauge take a look at the wiki page: [Operator_(computer_programming)](http://en.wikipedia.org/wiki/Operator_(computer_programming)#Operator_features_in_programming_languages)
+There are many many more operators than the ones listed. To see a list of operators by programming language take a look at the wiki page: [Operator_(computer_programming)](http://en.wikipedia.org/wiki/Operator_(computer_programming)#Operator_features_in_programming_languages)
 
 ##Arithmetic Operators
 
@@ -70,15 +70,15 @@ Output
     1
 
     
-##Logical
+##Logic Operators
 
 * AND
 * OR
 * NOT
 
-These can be clearly defined in truth tables which you will see below.    
+These can be clearly defined in truth tables which you will see below. A truth table is used to express every combination of evaluating a logical expression.  
 
-##AND
+###AND
 
 `AND` is used to group two logical expressions. This means that both expressions need to agree for their results to match their values. 
 
@@ -91,7 +91,7 @@ Let's look at this truth table:
     
 You can see that T and T is T and F and F is F. When you mix these values, T and F or F and T, you'll get a negative value returned. In the case of a truth table, the negative returned value is always false.
 
-##OR
+###OR
 
 `OR` is used to pair two logical expressions but returns the positive if one exists.
 
@@ -104,7 +104,7 @@ Let's look at this:
 
 You can see that if any value is true when grouped by an Or the result is always true.
 
-##NOT
+###NOT
 
 `NOT` is the opposite of the expression. 
 
@@ -121,30 +121,3 @@ This is useful when you're wanting to perform an action when something is not tr
 Output:
 
     This was false!
-
-##Conditional Statements
-We've seen conditional statements before (if statements).
-
-Let's look at the following expression and I want you to think about what in the world the answer could be.
-
-    1 + 2 == 3 AND 2 + 2 == 4 OR 5 > (2 + 3)
-
-Think really hard before you glance down at the answer! 
-
-Let's take the above statement and break it into pieces. 
-
-I like to throw in parenthesis to make things clearer. (I hope you know your order of operations! If not, google it!)
-
-    (1 + 2 == 3) AND (2 + 2 == 4) OR (5 > (2 + 3))
-
-Using arithmetic and logical operators this newly grouped statement can become this:
-
-    True AND True OR False
-    
-And finally this will look like this:
-
-    True OR False
-    
-Output
-
-    True

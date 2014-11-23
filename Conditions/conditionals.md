@@ -82,3 +82,28 @@ Let's get crazy with it and see if you can figure out what's going on.
             print 'HERE?....Nope'
 
 
+Let's look at the following expression and I want you to think about what in the world the answer could be.
+
+    1 + 2 == 3 AND 2 + 2 == 4 OR 5 > (2 + 3)
+
+Think really hard before you glance down at the answer! 
+
+Let's take the above statement and break it into pieces. 
+
+I like to throw in parenthesis to make things clearer. (I hope you know your order of operations! If not, google it!)
+
+    (1 + 2 == 3) AND (2 + 2 == 4) OR (5 > (2 + 3))
+
+Using arithmetic and logical operators this newly grouped statement can become this:
+
+    True AND True OR False
+    
+And finally this will look like this:
+
+    True OR False
+    
+Output
+
+    True
+
+
