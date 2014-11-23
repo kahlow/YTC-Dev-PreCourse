@@ -2,19 +2,17 @@
 
 ##Definition
 
-The current (10/16/2014) wikipedia definition of a variable is this:
+Variables are a way for a programmer to store data in the computer's memory to be used throughout a program. For example, if you, as a developer, are making a very simple calculator program that adds two numbers together, you’ll want to be able to store the two numbers from your users and add them together.
 
->In computer programming, a variable or scalar is a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity or information referred to as a value. The variable name is the usual way to reference the stored value; this separation of name and content allows the name to be used independently of the exact information it represents. The identifier in computer source code can be bound to a value during run time, and the value of the variable may thus change during the course of program execution.
-
-This is a great definition and contains the basic concepts of what a variable is but this can be a little overwhelming so let’s break down what this text says.
-
-*"a variable or scalar is a storage location"* - Variables are a way for a programmer to store data in the computer's memory to be used throughout the program. For example, if you as a developer are making a very simple calculator program that adds two numbers together, you’ll want to be able to store the two numbers from your users and add them together. This follows the basic concepts in algebra. Let's take a look at how you would create a function in algebra that adds two unknown numbers together and then we can use an example using PHP! Woohoo!
+Let's take a look at how you would create a function in algebra that adds two unknown numbers together.
 
 ####The Algebra way:
 
 Function: `a + b = c`
 
-Given a = 2 and b = 1, find the value of c. We can easily solve this and find that c equals a billion… I mean 3. The values ‘a’, ‘b’, and ‘c’ are your variables. Is this starting to make sense? I hope so. Let's translate this into a program and you'll be able to see this in action. You might be surprised how similar this is in code.
+Given a = 2 and b = 1, find the value of c. We can easily solve this and find that c equals a billion… I mean 3. The values `a`, `b`, and `c` are your variables. Is this starting to make sense? I hope so. 
+
+Let's translate this into a program and you'll be able to see this in action. You might be surprised how similar this is in code.
 
 ####The Code way:
 
@@ -27,7 +25,7 @@ Simple calculator program:
     c = a + b
     print c
 
-This program prints out the value of ‘c’. Just like in Algebra, ‘a’, ‘b’ and ‘c’ are your variables. 
+This program prints out the value of `c`. Just like in Algebra. `a`, `b` and `c` are your variables. 
 
 Wasn't that easy? Let's mix it up a bit. I'm going to you show you that same program but it is a little longer and more complicated. Don't worry, you'll be able to figure it out.
 
@@ -46,15 +44,12 @@ Can you guess what the computer would print to the screen after running this pro
     3
     5
 
-Wha’ happened? I’ll tell you wha’ happened: we’ve been working with the second part of that first wikipedia sentence and the last part of the same block of wikipedia knowledge. “paired with an associated symbolic name (an identifier),” and “and the value of the variable may thus change during the course of program execution.”  ‘a’ is a symbol or name for your variable. You’ve been doing this without even thinking about it. You can assign any value to ‘a’, ‘b’ and ‘c’ at any time during your program. The characters you’re using to represent the numbers are called identifiers. Let’s take a look at that again:
+Wha’ happened? I’ll tell you wha’ happened. You can assign any value to `a`, `b` and `c` at any time during your program. The characters you’re using to represent the numbers are called identifiers. Let’s take a look at that again:
+
 
     a = 2
 
-‘a’ is your variable name and 2 is the value you’re assigning to your variable. You could name it anything you want. Here’s the calculator program with some pizzaz:
-
-    a = 2
-
-‘a’ is your variable name and 2 is the value you’re assigning to your variable. You could name it anything you want. Here’s the calculator program with some pizzaz:
+`a` is your variable name and 2 is the value you’re assigning to your variable. You could name it anything you want. Here’s the calculator program with some pizzaz:
 
     Mr = 2
     Bojangles = 1
