@@ -12,6 +12,8 @@ if ($thisIsTrue)
     echo "TRUE!!";
 else
     echo "FALSE?";
+
+// These breaks are for making the output pretty. I can insert html between the outputs to give spacing to each section.
 ?>
 <br/>
 <?php

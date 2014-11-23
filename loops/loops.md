@@ -115,7 +115,7 @@ Output
     3
     4
 
->Note: I haven't used i++ much in my pseudo code so if you don't recognize it, don't worry. It's a really handy piece of code that allows you to write a short-hand version of i = i + 1. You can also do i-- or ++i and --i. The postfix (i++) occurs after the statement is evaluated and the prefix (--i) happens while it's being evaluated. That means if you set `i = 5` and then `print ++i` that would give you `6` while `i++` would give you `5`.
+>Note: Remember i++? It's a really handy piece of code that allows you to write a short-hand version of i = i + 1. You can also do i-- or ++i and --i. The postfix (i++) occurs after the statement is evaluated and the prefix (--i) happens while it's being evaluated. That means if you set `i = 5` and then `print ++i` that would give you `6` while `i++` would give you `5`.
 
 ##For-Each
 
