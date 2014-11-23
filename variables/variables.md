@@ -29,7 +29,7 @@ Simple calculator program:
 
 This program prints out the value of ‘c’. Just like in Algebra, ‘a’, ‘b’ and ‘c’ are your variables. 
 
-Wasn't that easy? Let's mix it up a bit. I'm going to you show you that same program but make it a little longer and more complicated. Don't worry, you'll be able to figure it out.
+Wasn't that easy? Let's mix it up a bit. I'm going to you show you that same program but it is a little longer and more complicated. Don't worry, you'll be able to figure it out.
 
 Let's start with the original program and then kick it up a notch. 
 
