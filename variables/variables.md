@@ -63,8 +63,20 @@ Output
     3
     5
 
-
 Variables are just containers for your data. You can change their contents whenever you want. This is a very valuable function of programming. You’ll use it in every program.
+
+###Clean code tip
+You should name your variables as descriptively as possible. For example, if you're creating a variable to store the name of a person, the variable should be called something like *name* or *personName*.
+
+###Naming conventions
+It's good to get into the habit of using camel case. Your variables should start with a lower case word and any additional word should be uppercased. 
+
+Examples
+
+    firstName
+    lastName
+    camelCaseIsGood
+
 
 ##Types
 
