@@ -212,14 +212,3 @@ You'll also notice the default case. That's is automatically used if none of you
     default:
         print "i doesn't equals any of these things"
         break
-
-
-
-
-
-
-
-
-
-
-    
