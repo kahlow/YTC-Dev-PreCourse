@@ -24,9 +24,6 @@ Let's take a look at some examples of operators and you'll see that it's an easy
     Not
     ==
 
-Note:
->In our pseudo code we've been using the equals sign '=' to assign or compare values. Normally you'll see the use of a double equals == to compare values.
-
 There are many many more operators than the ones listed. To see a list of operators by programming language take a look at the wiki page: [Operator_(computer_programming)](http://en.wikipedia.org/wiki/Operator_(computer_programming)#Operator_features_in_programming_languages)
 
 ##Arithmetic Operators

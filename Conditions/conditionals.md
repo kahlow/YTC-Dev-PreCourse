@@ -57,7 +57,8 @@ Let's put all of that together with a real world example. This program checks th
     else
         print "these values are weird"
 
-
+####Note
+> You'll notice that I used == to represent "equals." This is a convention used in most programming languages. Double equals (==) is used to compare two values or expressions. We covered this in the operators section but I just want you to be aware of it. Like my momma always said: "If you want to teach someone about the double equals operator, don't worry about repeating yourself."
 
 ##Nesting
 
