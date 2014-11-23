@@ -1,8 +1,6 @@
 #Functions
 
-What is a function
-
-A function is a named set of instructions that may or may not take parameters. You can define a function in your program and use built in functions included with your language of choice.
+What is a function? A function is a named set of instructions that may or may not take parameters. You can define a function in your program and use built in functions included with your language of choice.
 
     function addTwoNumbers(int num1, int num2)
         return num1 + num2
@@ -38,7 +36,6 @@ If you're writing a calculator program that adds two numbers together, you could
     print doSomeMath(4,4)
 
 You might be thinking, why can't I just print 2 + 2 and 4 + 4. Well, you can but what happens when your crazy professor says that the program is now supposed to subtract two numbers. You would have to search for all of your 2 + 2s and 4 + 4s and replace the + sign. What if you wrote 1000 lines of code? That could lead to a lot of mistakes. Instead, you could alter your function and make the change everywhere.
-
 
 
 ##Built in functions
