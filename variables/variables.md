@@ -87,7 +87,7 @@ Output:
     <EXPLOSIONS>
 
 Wait a minute, you can’t add 2 + frosted flakes! That doesn’t make sense!
-It’s easy to see that you can’t add text to a number but what you don’t realize is that we’re already beginning to understand the concept of Types.! In a lot of programming languages variables have types. Types restrict what type of content you can put into your variables. For a calculator that adds numbers, you’ll only want numbers in your variables. Let’s look at some different Types.
+It’s easy to see that you can’t add text to a number but what you don’t realize is that we’re already beginning to understand the concept of Types. In a lot of programming languages variables have types. Types restrict what type of content you can put into your variables. For a calculator that adds numbers, you’ll only want numbers in your variables. Let’s look at some different Types.
 
 Most languages contains these types:
 

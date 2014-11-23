@@ -1,6 +1,6 @@
 #Conditional Statements
 
-Conditional statements are the bread and butter of software development. They’re used everywhere! Conditional statements is a fancy way to say decisions. In logic, it’s very common to represent a decision by saying “If this, then that” That’s exactly how you do it in programming too! Neat!
+Conditional statements are the bread and butter of software development. They’re used everywhere! The phrase *conditional statements* is a fancy way to say decisions. In logic, it’s very common to represent a decision by saying “If this, then that” That’s exactly how you do it in programming too! Neat!
 
 Let’s take a look using pseudo code:
 
@@ -9,7 +9,83 @@ Let’s take a look using pseudo code:
     if a = 3 then 
         print “The variable ‘a’ equals 3!”
 
-Wasn’t that easy?! That’s a conditional statement. Let’s tie in some of those variable types and we can make a sweet program that makes decisions. Don’t worry, this program won’t create Skynet.
+Wasn’t that easy?! That is a conditional statement. 
+
+
+##If Statements
+
+An *if statement* is a way to express a conditional statement. 
+
+The structure of an if statement normally looks like this:
+
+    if <condition> then
+        <code executed if condition is true>
+
+
+###Else
+
+*If statements have a negative condition too. This is expressed as an *Else*
+
+
+    if <condition> then
+        <code executed if condition is true>
+    else
+        <code executed if condition is false>
+
+###Else-if
+
+There is another scenario in conditional statements that allows the developer to make a new decision if the condition evaluated is false by using *else-if*.
+
+
+
+    if <condition> then
+        <code executed if condition is true>
+    else if <new condition>
+        <code executed if new condition is true>
+
+
+###All together now
+
+Let's put all of that together with a real world example. This program checks the variables to see if they are equal or if `a` is greater than `b`. If none of those things are true it prints a default message.
+
+    a = 3
+    b = 4
+
+    if a == b then
+        print "a equals b"
+    else if a > b then
+        print "a is greater than b"
+    else
+        print "these values are weird"
+
+
+
+##Nesting
+
+You can nest if statements. Isn't that cool?
+
+    if 2 = 2 then
+        if 3 = 3 then
+            if 4 = 4 then
+                ......
+
+Let's get crazy with it and see if you can figure out what's going on.
+
+    if true then
+        if true then
+            if true then
+                if false then
+                    print 'HERE?....Nope'
+                else
+                    print 'This is it!'
+    else
+        if true then
+            print 'HERE?....Nope'
+
+
+##Conditional Logic Examples
+
+Let’s tie in some of those variable types and we can make a sweet program that makes decisions. Don’t worry, this program won’t create Skynet.
 
     WeShould = True
     a = 0
@@ -23,7 +99,7 @@ Output
 
     2
 
-We used a conditional statement based on the variable ‘WeShould’ to change the value of ‘a.’ Woah. Now we’re cooking!
+We used a conditional statement based on the variable ‘WeShould’ to change the value of ‘a.’ Whoa. Now we’re cooking!
 
 Let’s complicate conditional statements since you’re so smart. There are negative conditions too. Let’s check that same program out again.
 
@@ -59,28 +135,7 @@ Output
 
 Because ‘WeShould’ was false, the ‘else’ condition was met and the variable ‘a’ was set to 3. 
 
-##Nesting
-
-You can nest if statements. Isn't that cool?
-
-    if 2 = 2 then
-        if 3 = 3 then
-            if 4 = 4 then
-                ......
-
-Let's get crazy with it and see if you can figure out what's going on.
-
-    if true then
-        if true then
-            if true then
-                if false then
-                    print 'HERE?....Nope'
-                else
-                    print 'This is it!'
-    else
-        if true then
-            print 'HERE?....Nope'
-
+##Kicking it up a notch
 
 Let's look at the following expression and I want you to think about what in the world the answer could be.
 
@@ -105,5 +160,3 @@ And finally this will look like this:
 Output
 
     True
-
-

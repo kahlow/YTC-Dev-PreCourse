@@ -73,11 +73,11 @@ Output
 
 Relational operators are used when comparing two values or expressions.
 
-* >  | greater than
-* <  | less than
-* == | equal to
-* >= | greater than or equal to
-* <= | less than or equal to
+    >  | greater than
+    <  | less than
+    == | equal to
+    >= | greater than or equal to
+    <= | less than or equal to
 
 These operators return `TRUE` or `FALSE`
 
