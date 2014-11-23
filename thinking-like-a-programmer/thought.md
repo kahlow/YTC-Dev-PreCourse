@@ -11,6 +11,8 @@ I want you to repeat this 3 times out loud. You will be graded on it.
 
 Doesn't that feel great?! Part of being a developer (or anything) is believing you can be. With the skills you'll learn in this class you'll be well on your way to becoming an excellent developer. It takes hard work and discipline but we both know you have that in spades.
 
+##Thinking like a developer
+
 Next, let's get into the mindset of a developer. To do this you'll need to break out the ol' logical part of your brain. Developers can break any task given to them into a simple set of instructions.
 
 Computers are really dumb. Think of your computer as the dumbest person you've ever met. Go ahead and get a mental picture of that person. Aren't they silly?
