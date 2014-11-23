@@ -1,12 +1,12 @@
 #Conditional Statements
 
-Conditional statements are the bread and butter of software development. They’re used everywhere! The phrase *conditional statements* is a fancy way to say decisions. In logic, it’s very common to represent a decision by saying “If this, then that” That’s exactly how you do it in programming too! Neat!
+Conditional statements are the bread and butter of software development. They’re used everywhere! The phrase *conditional statements* is a fancy way to say decisions. In logic, it’s very common to represent a decision by saying “If this, then that” That is exactly how you do it in programming too! Neat!
 
 Let’s take a look using pseudo code:
 
     a = 3
 
-    if a = 3 then 
+    if a == 3 then 
         print “The variable ‘a’ equals 3!”
 
 Wasn’t that easy?! That is a conditional statement. 
@@ -37,7 +37,6 @@ The structure of an if statement normally looks like this:
 There is another scenario in conditional statements that allows the developer to make a new decision if the condition evaluated is false by using *else-if*.
 
 
-
     if <condition> then
         <code executed if condition is true>
     else if <new condition>
@@ -64,9 +63,9 @@ Let's put all of that together with a real world example. This program checks th
 
 You can nest if statements. Isn't that cool?
 
-    if 2 = 2 then
-        if 3 = 3 then
-            if 4 = 4 then
+    if 2 == 2 then
+        if 3 == 3 then
+            if 4 == 4 then
                 ......
 
 Let's get crazy with it and see if you can figure out what's going on.
@@ -87,10 +86,10 @@ Let's get crazy with it and see if you can figure out what's going on.
 
 Let’s tie in some of those variable types and we can make a sweet program that makes decisions. Don’t worry, this program won’t create Skynet.
 
-    WeShould = True
+    weShould = True
     a = 0
 
-    if WeShould = True then
+    if weShould == True then
         a = 2
 
     print a
@@ -99,14 +98,14 @@ Output
 
     2
 
-We used a conditional statement based on the variable ‘WeShould’ to change the value of ‘a.’ Whoa. Now we’re cooking!
+We used a conditional statement based on the variable ‘weShould’ to change the value of `a`. Whoa. Now we’re cooking!
 
 Let’s complicate conditional statements since you’re so smart. There are negative conditions too. Let’s check that same program out again.
 
-    WeShould = True
+    weShould = True
     a = 0
 
-    if WeShould = True then
+    if weShould == True then
         a = 2
     else
         a = 3
@@ -117,12 +116,12 @@ Output
 
     2
 
-Because ‘WeShould’ is true, the first condition is 2 and the “else” is never evaluated. Let’s reverse that.
+Because `weShould` is true, the first condition is 2 and the 'else' is never evaluated. Let’s reverse that.
 
-    WeShould = False
+    weShould = False
     a = 0
 
-    if WeShould = True then
+    if weShould == True then
         a = 2
     else
         a = 3
@@ -133,7 +132,7 @@ Output
 
     3
 
-Because ‘WeShould’ was false, the ‘else’ condition was met and the variable ‘a’ was set to 3. 
+Because `WeShould` was false, the `else` condition was met and the variable `a` was set to 3. 
 
 ##Kicking it up a notch
 
