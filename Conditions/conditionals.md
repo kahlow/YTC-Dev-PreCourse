@@ -24,7 +24,7 @@ The structure of an if statement normally looks like this:
 
 ###Else
 
-*If statements have a negative condition too. This is expressed as an *Else*
+If statements have a negative condition too. This is expressed as an *Else*
 
 
     if <condition> then
