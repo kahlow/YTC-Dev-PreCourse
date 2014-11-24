@@ -134,8 +134,6 @@ You'll also notice the default case. That's is automatically used if none of you
         print "i doesn't equals any of these things"
         break
 
-
-
 ##Conditional Logic Examples
 
 Let’s tie in some of those variable types and we can make a sweet program that makes decisions. Don’t worry, this program won’t create Skynet.
@@ -152,7 +150,7 @@ Output
 
     2
 
-We used a conditional statement based on the variable ‘weShould’ to change the value of `a`. Whoa. Now we’re cooking!
+We used a conditional statement based on the variable `weShould` to change the value of `a`. Whoa. Now we’re cooking!
 
 Let’s complicate conditional statements since you’re so smart. There are negative conditions too. Let’s check that same program out again.
 
@@ -186,9 +184,13 @@ Output
 
     3
 
-Because `WeShould` was false, the `else` condition was met and the variable `a` was set to 3. 
+Because `weShould` was false, the 'else' condition was met and the variable `a` was set to 3. 
 
 ##Kicking it up a notch
+
+Note
+
+>If you haven't read the logic operator section yet, go do that first.
 
 Let's look at the following expression and I want you to think about what in the world the answer could be.
 
