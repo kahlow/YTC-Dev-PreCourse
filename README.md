@@ -9,6 +9,13 @@
 * [Loops](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/loops/loops.md)
 * [Functions](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/functions/functions.md)
 
+###Getting Started
+Since we're developing in PHP I'd like you to use WAMP. There are other PHP servers you can set up but this one is easy to use.
+
+* [WAMP](http://www.wampserver.com/en/)
+* [WAMP Installation](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/WAMP/installation.md)
+
+
 ###Books
 There aren't any required books for this course but I'd like to recommend some for reading outside of class. Remeber, being a developer means you will constantly be learning new things for the rest of your career!
 
@@ -19,6 +26,7 @@ There aren't any required books for this course but I'd like to recommend some f
 ###Resources
 There are many resources you can use to aid you on your journey to becomming a programming ninja.
 
+* [PHP Docs](http://php.net/manual/en/)
 * [Codeacademy](http://www.codecademy.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Khan Academy](https://www.khanacademy.org)
