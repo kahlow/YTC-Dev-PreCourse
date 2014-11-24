@@ -16,7 +16,8 @@ Let's translate this into a program and you'll be able to see this in action. Yo
 
 ####The Code way:
 
-(I’m using something called pseudo code. What that means is I'm using plain text to write down general concepts so that I can extract you, dear student, from having to deal with language syntax. That comes later.)
+Note:
+>I’m using something called pseudo code. What that means is I'm using plain text to write down general concepts so that I can extract you, dear student, from having to deal with language syntax. That comes later.
 
 Simple calculator program:
 
