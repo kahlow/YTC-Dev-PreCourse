@@ -13,7 +13,7 @@
 Since we're developing in PHP I'd like you to use WAMP. There are other PHP servers you can set up but this one is easy to use.
 
 * [WAMP](http://www.wampserver.com/en/)
-* [WAMP Installation](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/WAMP/installation.md)
+* [My WAMP installation instructions](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/WAMP/installation.md)
 
 
 ###Books
