@@ -19,6 +19,6 @@ There aren't any required books for this course but I'd like to recommend some f
 ###Resources
 There are many resources you can use to aid you on your journey to becomming a programming ninja.
 
-* [Code Academy](http://www.codecademy.com/)
+* [Codeacademy](http://www.codecademy.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Khan Academy](https://www.khanacademy.org)
