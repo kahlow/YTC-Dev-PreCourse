@@ -8,4 +8,4 @@
 ##Using wampserver
 1. The “www” directory will be automatically created (usually c:\wamp\www)
 2. Create a subdirectory in “www” and put your PHP files inside.
-3. Click on the “localhost” link in the WampSever menu or open your web browser and go to the URL : http://localhost/<whatever you named your folder>
+3. Click on the “localhost” link in the WampSever menu or open your web browser and go to the URL : http://localhost/(whatever you named your folder)
