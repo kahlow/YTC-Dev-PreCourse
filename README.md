@@ -22,6 +22,7 @@ There aren't any required books for this course but I'd like to recommend some f
 * [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 * [Code Complete, 2nd Edition](http://www.cc2e.com/Default.aspx)
 * [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html)
+* [Design Patterns - Gamma, Helm, Johnson, Vlissides](http://www.amazon.com/gp/product/0201633612?ie=UTF8&tag=diabeticbooks&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201633612)
 
 ###Resources
 There are many resources you can use to aid you on your journey to becomming a programming ninja.
