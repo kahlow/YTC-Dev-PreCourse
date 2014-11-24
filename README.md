@@ -30,3 +30,12 @@ There are many resources you can use to aid you on your journey to becomming a p
 * [Codeacademy](http://www.codecademy.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Khan Academy](https://www.khanacademy.org)
+
+I encourage you to check out other programming languages too!
+* [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [python](https://www.python.org/)
+* [ruby](https://www.ruby-lang.org/en/)
+
+If you're wanting to get into web development. This is a great reference for all things web dev related:
+* [MDN](https://developer.mozilla.org/en-US/)
+
