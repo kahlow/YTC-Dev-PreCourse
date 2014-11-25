@@ -100,7 +100,6 @@ There is another conditional statement format that we can use. It's called a swi
         break
     default:
         print "i doesn't equal none of those things"
-        break
 
 You'll notice a few things. One being that there is the word "break" at the end of each case. That's a feature of switch statements. If you don't include the break, the next line will execute as well. I'll show you an example.
 
@@ -132,7 +131,6 @@ You'll also notice the default case. That's is automatically used if none of you
         break
     default:
         print "i doesn't equals any of these things"
-        break
 
 ##Conditional Logic Examples
 
