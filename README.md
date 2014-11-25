@@ -29,6 +29,7 @@ There aren't any required books for this course but I'd like to recommend some f
 ###Resources
 There are many resources you can use to aid you on your journey to becomming a programming ninja.
 
+* [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [PHP Docs](http://php.net/manual/en/)
 * [Codeacademy](http://www.codecademy.com/)
 * [Project Euler](https://projecteuler.net/)
