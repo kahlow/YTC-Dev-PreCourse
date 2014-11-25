@@ -25,7 +25,13 @@ Anything a computer does needs to be broken down into a simple set of instructio
 
 One exercise that I started out with when I was in school is teaching a computer how to make a sandwich. Pretend you already have all of the ingredients in front of you.
 
-Steps:
+######User Story: As a hungry user, I want to make a sandwich.
+
+High level steps:
+
+    Make sandwich
+
+Granular steps:
 
     Place bread on plate
     Apply peanut butter to bread
