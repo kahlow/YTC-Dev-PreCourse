@@ -39,7 +39,8 @@ Clean code is something you should strive for. Clean code is readable and well d
 
 ###Indent and white space
 You should use as much white space as you need. Conditional statements and loops should be tabbed correctly.
-Protip
+
+####Protip
 >Use the tab key on your keyboard to keep your code readable!
 
 ###Organized
