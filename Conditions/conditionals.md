@@ -89,31 +89,31 @@ There is another conditional statement format that we can use. It's called a swi
     i = 2
     
     switch (i)
-    case 0:
-        print "i equals 0"
-        break
-    case 1:
-        print "i equals 1"
-        break
-    case 2:
-        print "i equals 2"
-        break
-    default:
-        print "i doesn't equal none of those things"
+        case 0:
+            print "i equals 0"
+            break
+        case 1:
+            print "i equals 1"
+            break
+        case 2:
+            print "i equals 2"
+            break
+        default:
+            print "i doesn't equal none of those things"
 
 You'll notice a few things. One being that there is the word "break" at the end of each case. That's a feature of switch statements. If you don't include the break, the next line will execute as well. I'll show you an example.
 
     i = 2
 
     switch(i)
-    case 2:
-        print "i equals 2"
-    case 3:
-        print "i equals 3"
-        break
-    case 4: 
-        print "i equals 4"
-        break
+        case 2:
+            print "i equals 2"
+        case 3:
+            print "i equals 3"
+            break
+        case 4: 
+            print "i equals 4"
+            break
 
 Output
     
