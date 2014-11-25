@@ -27,6 +27,8 @@ This may seem like a huge undertaking but let's break it into smaller pieces. Wh
 4. Display temperature and cute cat picture.
 5. Make you a million dollars
 
-Each one of those steps seems really complicated but most devices have something called an API which is a set of tools for building software applications. Sure it'll take time to learn the API but once you do you'll be surprised at what you can do.
+Each one of those steps seems really complicated, and they probably are at first, but most devices have something called an API which is a set of tools for building software applications. Sure it'll take time to learn the API but once you do you'll be surprised at what you can do.
+
+The first step in writing any program is to break the high level instructions into manageable steps. I like to use the business term of *user story*. A *user story* is a sentience or two describing a user interaction. "As a smart phone user, I want to be able to see a cute cat and the weather." These user stories are then broken down into tasks like the ones above.
 
 *The trick to being a software developer is confidence and time.*
