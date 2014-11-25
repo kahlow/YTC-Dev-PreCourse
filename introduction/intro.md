@@ -16,8 +16,9 @@ First, let's think of a platform. Let's pick smart phone since they're so popula
 
 Next, let's think of a task. How about telling a user the current temperature where they are located.
 
-Platform: Smart Phone
-App(program): Local weather
+######Platform: Smart Phone
+
+######App(program): Local weather
 
 This may seem like a huge undertaking but let's break it into smaller pieces. What does your app need to do to successfully tell a user the local weather?
 
@@ -31,4 +32,4 @@ Each one of those steps seems really complicated, and they probably are at first
 
 The first step in writing any program is to break the high level instructions into manageable steps. I like to use the business term of *user story*. A *user story* is a sentience or two describing a user interaction. "As a smart phone user, I want to be able to see a cute cat and the weather." These user stories are then broken down into tasks like the ones above.
 
-*The trick to being a software developer is confidence and time.*
+######*The trick to being a software developer is confidence and time.*
