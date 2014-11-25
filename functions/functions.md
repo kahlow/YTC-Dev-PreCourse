@@ -48,3 +48,22 @@ For example, math functions are very common.
 sqrt takes a number and returns the square root of that value.
 
 Take a look at the PHP Docs to see other math libraries: [PHP Docs](http://php.net/manual/en/ref.math.php)
+
+##Recursion
+
+TODO: Expalin what this is
+
+##Example Program
+
+    function isEven(int number)
+        if (number % 2 == 0)
+            return true
+            
+        return false
+        
+    int number = 15     
+    
+    if isEven(number) then
+        print number + " is even!"
+    else
+        print number + " is odd!"
