@@ -126,11 +126,11 @@ You'll also notice the default case. That's is automatically used if none of you
     i = 2
 
     switch(i)
-    case 3:
-        print "i equals 3"
-        break
-    default:
-        print "i doesn't equals any of these things"
+        case 3:
+            print "i equals 3"
+            break
+        default:
+            print "i doesn't equals any of these things"
 
 ##Conditional Logic Examples
 
