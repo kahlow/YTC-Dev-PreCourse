@@ -2,6 +2,7 @@
 
 ###Topics covered
 
+* [Introduction](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/introduction/intro.md)
 * [Thinking like a programmer](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/thinking-like-a-programmer/thought.md)
 * [Variables](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/variables/variables.md)
 * [Operators](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/operators/operators.md)
