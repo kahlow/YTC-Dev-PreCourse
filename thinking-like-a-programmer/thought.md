@@ -28,15 +28,13 @@ One exercise that I started out with when I was in school is teaching a computer
 ######User Story: As a hungry user, I want to make a sandwich.
 
 High level steps:
-
-    Make sandwich
+1. Make sandwich
 
 Granular steps:
-
-    Place bread on plate
-    Apply peanut butter to bread
-    Add bananas
-    Apply second layer of bread
+1. Place bread on plate
+2. Apply peanut butter to bread
+3. Add bananas
+4. Apply second layer of bread
 
 That's a very high level set of instructions. What if you had to break it down even further by instruction your hand how to pick the bread up? This exercise can lead you into an infinite amount of steps. Go ahead and take some time to see how far you can go down that rabbit hole. I'll be here when you get back.
 
