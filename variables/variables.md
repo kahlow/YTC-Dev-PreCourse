@@ -47,7 +47,6 @@ Can you guess what the computer would print to the screen after running this pro
 
 Wha’ happened? I’ll tell you wha’ happened. You can assign any value to `a`, `b` and `c` at any time during your program. The characters you’re using to represent the numbers are called identifiers. Let’s take a look at that again:
 
-
     a = 2
 
 `a` is your variable name and 2 is the value you’re assigning to your variable. You could name it anything you want. Here’s the calculator program with some pizzaz:
@@ -77,7 +76,6 @@ Examples
     firstName
     lastName
     camelCaseIsGood
-
 
 ##Types
 
