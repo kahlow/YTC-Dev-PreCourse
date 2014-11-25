@@ -17,7 +17,6 @@ First, let's think of a platform. Let's pick smart phone since they're so popula
 Next, let's think of a task. How about telling a user the current temperature where they are located.
 
 ######Platform: Smart Phone
-
 ######App(program): Local weather
 
 This may seem like a huge undertaking but let's break it into smaller pieces. What does your app need to do to successfully tell a user the local weather?
