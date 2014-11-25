@@ -1,10 +1,10 @@
 #Array
 
-What is an array you ask?
+##Definition
 
-An array is a collection of items, typically the same Type, in order. In computer science this is called a data structure.
+An array is a collection of items, typically of the same Type, in order. In computer science this is called a data structure.
 
-Items in an array are accessed using an index. An index is an integer.
+Items in an array are accessed using an index. An index is a zero-based integer.
 
 Syntax example
 
@@ -22,7 +22,7 @@ Wait a minute! I wanted the 3rd item in the array, not the 2nd! I would say to y
 
 Arrays are *zero-based* indexing. This means the first element of the array is indexed at 0.
 
-Let's print that original array out using each of it's indices (plural of index in a mathematical context, but you knew that).
+Let's print that original array out using each of its indices (plural of index in a mathematical context, but you knew that).
 
 	print array[0]
 	print array[1]
@@ -69,3 +69,24 @@ How would you get to all of those values? Nested loops!
 ###Clean code tip
 
 You can get crazy with your dimensions but just remember, a clean code advocate will always reduce complexity.
+
+##Examples of arrays
+
+	string names = ["Danny Tanner", "Joey Gladstone", "Jesse Katsopolis"]
+
+	int arrayLength = 2 // 0,1,2
+	int index = 0
+
+	while(index <= arrayLength)
+		switch (names[i])
+		case "Danny Tanner":
+			print "Dad!"
+			break
+		case "Joey Gladstone":
+			print "Uncle Joey!"
+			break
+		case "Jesse Katsopolis":
+			print "Uncle Jesse!"
+			break
+		default
+			print "How rude!"
