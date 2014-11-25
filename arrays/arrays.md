@@ -70,7 +70,7 @@ How would you get to all of those values? Nested loops!
 
 You can get crazy with your dimensions but just remember, a clean code advocate will always reduce complexity.
 
-##Examples of arrays
+##Example program
 
 	string names = ["Danny Tanner", "Joey Gladstone", "Jesse Katsopolis"]
 
