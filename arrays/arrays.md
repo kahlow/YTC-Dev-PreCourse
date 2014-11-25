@@ -90,3 +90,5 @@ You can get crazy with your dimensions but just remember, a clean code advocate 
 			break
 		default
 			print "How rude!"
+
+		index++
