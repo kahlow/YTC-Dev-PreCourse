@@ -7,7 +7,7 @@ First, there are three types of operators.
 * Relational
 * Logical
 
-Let's take a look at some examples of operators and you'll see that it's an easy concept to learn.
+Let's take a look at some examples of operators:
 
     =
     >
@@ -24,7 +24,7 @@ Let's take a look at some examples of operators and you'll see that it's an easy
     Not
     ==
 
-There are many many more operators than the ones listed. To see a list of operators by programming language take a look at the wiki page: [Operator_(computer_programming)](http://en.wikipedia.org/wiki/Operator_(computer_programming)#Operator_features_in_programming_languages)
+There are many, many more operators than the ones listed. To see a list of operators by programming language take a look at the wiki page: [Operator_(computer_programming)](http://en.wikipedia.org/wiki/Operator_(computer_programming)#Operator_features_in_programming_languages)
 
 ##Arithmetic Operators
 
