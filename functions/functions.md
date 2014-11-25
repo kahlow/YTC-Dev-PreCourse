@@ -37,7 +37,6 @@ If you're writing a calculator program that adds two numbers together, you could
 
 You might be thinking, why can't I just print 2 + 2 and 4 + 4. Well, you can but what happens when your crazy professor says that the program is now supposed to subtract two numbers. You would have to search for all of your 2 + 2s and 4 + 4s and replace the + sign. What if you wrote 1000 lines of code? That could lead to a lot of mistakes. Instead, you could alter your function and make the change everywhere.
 
-
 ##Built in functions
 
 Built in functions are included in something called a Library. Most programming languages have libraries that contain many useful functions.
@@ -47,3 +46,5 @@ For example, math functions are very common.
     print sqrt(4)
 
 sqrt takes a number and returns the square root of that value.
+
+Take a look at the PHP Docs to see other math libraries: [PHP Docs](http://php.net/manual/en/ref.math.php)
