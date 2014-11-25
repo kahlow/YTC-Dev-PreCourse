@@ -13,11 +13,15 @@ Doesn't that feel great?! Part of being a developer (or anything) is believing y
 
 ##Thinking like a developer
 
-Next, let's get into the mindset of a developer. To do this you'll need to break out the ol' logical part of your brain. Developers can break any task given to them into a simple set of instructions.
+In the introduction we came up with an idea of a weather application for smart phones. We were able to break the application down into high level tasks to accomplish our goals. One thing we didn't do is talk about how to actually accomplish each step.
+
+Let's get granular!
+
+First, we need to get into the mindset of a developer. To do this you'll need to break out the ol' logical part of your brain. Developers can break any task given to them into a simple set of instructions.
 
 Computers are really dumb. Think of your computer as the dumbest person you've ever met. Go ahead and get a mental picture of that person. Aren't they silly?
 
-Anything a computer does needs to be broken down into a simple set of instructions. They only have a general understanding of their internals and they don't know how to put them to use. That's your job.
+Anything a computer does needs to be broken down into a simple set of instructions. They only have a general understanding of their internals (an API) and they don't know how to put them to use. That's your job.
 
 One exercise that I started out with when I was in school is teaching a computer how to make a sandwich. Pretend you already have all of the ingredients in front of you.
 
@@ -31,10 +35,12 @@ Steps:
 That's a very high level set of instructions. What if you had to break it down even further by instruction your hand how to pick the bread up? This exercise can lead you into an infinite amount of steps. Go ahead and take some time to see how far you can go down that rabbit hole. I'll be here when you get back.
 
 ##Clean code
-Clean code is something you should strive for. In the context of this course, clean code should mean that you indent properly and keep your code organized. You should also comment your code!!
+Clean code is something you should strive for. Clean code is readable and well documented.
 
-###Indent
-You should indent when using conditional statements and loops. Use the tab key on your keyboard to keep your code readable!
+###Indent and white space
+You should use as much white space as you need. Conditional statements and loops should be tabbed correctly.
+Protip
+>Use the tab key on your keyboard to keep your code readable!
 
 ###Organized
 You should group code that interacts together. For example, don't declare a variable at the top of a function and then only reference it on the last line of your function. This causes your code to be really hard to read.
