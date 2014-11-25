@@ -51,7 +51,50 @@ Take a look at the PHP Docs to see other math libraries: [PHP Docs](http://php.n
 
 ##Recursion
 
-TODO: Expalin what this is
+Recursion is solving a problem by breaking it into pieces and then combining the results. What this really means is defining *base cases*.  
+
+The most commonly used example of recursion is finding the factorial of a number. Factorial is denoted by n!. Factorial is the product of all positive integers less than or equal to n. 
+
+Example
+
+    4! = 4 * 3 * 2 * 1 = 24
+
+Let's write that function as a loop
+
+    int num = 4
+    int output = 1
+
+    for(int i = 1; i <= 4; i++)
+        output = i * output
+
+    print output
+
+Output 
+
+    24
+
+Now let's do that recursively.
+
+    function factorial(n)
+        if n == 0 
+            return 1
+
+        return n * factorial(n-1)
+
+Output
+
+    24
+
+Here's what's happening
+
+    factorial(4)
+    = 4 * factorial(3)
+    = 3 * factorial(2)
+    = 2 * factorial(1) 
+    = 1 * factorial(0) 
+
+Or
+    factorial(4*factorial(3*factorial(2*factorial(1*factorial(0))))))    
 
 ##Example Program
 
