@@ -13,16 +13,16 @@ Let's say you need to display a count down from 10 to 1. You could just do:
     ...
     print 1
 
-That would take forever though wouldn't it? What if you could just print a number and then subtract one. Let's do that here:
+That would take forever though wouldn't it? What if you could just print a number and then subtract one. I'll introduce you to the *while* loop first. The syntax is pretty straightforward:
 
-    i = 10;
+    i = 10; // first declare your index (fancy word for counter)
     
     while (i > 0)
       print i
-      i = i - 1
+      i--
     
     
-Isn't that so much easier?
+Isn't that easier? Remember, a clean coder will try to reduce the number of code lines where possible.
 
 There are many variates of loops (explained below) that you can choose from:
  * While
@@ -39,6 +39,14 @@ While loops check a condition and then execute the code below.
 
 This look will go on forever because there is nothing to trigger a false condition. You could almost say this is an *infinite-loop*.
 
+Let's count to 5 using a while loop
+
+    index = 0
+    
+    while (index <= 5)
+        print index
+        index++
+        
 Here's another example:
 
     isNumFive = false
@@ -51,13 +59,6 @@ Here's another example:
             isNumFive = false
 
 Once `num` = 5, this loop will stop. This is a strangely formatted while loop but it shows you that you can manipulate a value and trigger the while loop to end. 
-
-Ideally you could write it this way:
-
-    num = 0
-
-    while (num < 5)
-        num = num + 1
 
 ##Do-While
 
