@@ -31,4 +31,13 @@ Each one of those steps seems really complicated, and they probably are at first
 
 The first step in writing any program is to break the high level instructions into manageable steps. I like to use the business term of *user story*. A *user story* is a sentience or two describing a user interaction. "As a smart phone user, I want to be able to see a cute cat and the weather." These user stories are then broken down into tasks like the ones above.
 
-######*The trick to being a software developer is confidence and time.*
+######*The trick to being a software developer is confidence and time.* -- Tommy Kahlow
+
+####So you want to be a programmer?
+
+Read this: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+
+This is a little dramatic but it's a great read. It takes time and dedication to become a great developer.
+
+
+
