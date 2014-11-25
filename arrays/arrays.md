@@ -79,16 +79,16 @@ You can get crazy with your dimensions but just remember, a clean code advocate 
 
 	while(index <= arrayLength)
 		switch (names[i])
-		case "Danny Tanner":
-			print "Dad!"
-			break
-		case "Joey Gladstone":
-			print "Uncle Joey!"
-			break
-		case "Jesse Katsopolis":
-			print "Uncle Jesse!"
-			break
-		default
-			print "How rude!"
+			case "Danny Tanner":
+				print "Dad!"
+				break
+			case "Joey Gladstone":
+				print "Uncle Joey!"
+				break
+			case "Jesse Katsopolis":
+				print "Uncle Jesse!"
+				break
+			default
+				print "How rude!"
 
 		index++
