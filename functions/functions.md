@@ -63,7 +63,7 @@ Finding the solution for factorial can be described as this:
 
     n! = n*(n-1)!
 
-This means that the factorial of `n` is `n * (n - 1)` until n == 0. When n == 0 the multiply n by 1. 
+This means that the factorial of `n` is `n * (n - 1)` until `n == 0`. When `n == 0` the multiply `n` by `1`. 
 
 Let's write that function as a loop
 
