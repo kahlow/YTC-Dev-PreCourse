@@ -100,6 +100,7 @@ Here's what's happening
     = 1 * factorial(0) 
 
 Or
+
     factorial(4*factorial(3*factorial(2*factorial(1*factorial(0))))))    
 
 ##Example Program
