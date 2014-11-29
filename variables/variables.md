@@ -123,3 +123,14 @@ See how cool that is? A pragmatic approach to variables is to play it safe and m
 ##Memory
 
 Let’s talk about storage. Variables are actually stored in your computer’s RAM. Your computer is smart enough to create storage spaces in your RAM to keep these variables. If you create a million variables you could possibly fill up your RAM and slow your computer down. Be mindful of how you work with variables locally so you don’t impact performance of your application. This isn’t something you’ll need to worry about now, but it’s something you should store in the back of your mind.
+
+##Scope
+
+Variables have something called *scope*. Scope is where the variable is visible. 
+
+There are two types of variable scope:
+
+* Global variable - Global variables exist everywhere in our program
+* Local variable  - Local variable can only be directly accessed or modified in the context in which it's created. You'll see examples of this in the loops and conditions sections.
+
+PHP only really has one scope which is global scope. We won't be covering scope in-depth in this course but I encourage you to do your own research. It will come up in other languages!
