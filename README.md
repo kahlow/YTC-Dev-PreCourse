@@ -5,13 +5,18 @@
 * [Introduction](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/introduction/intro.md)
 * [Thinking like a programmer](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/thinking-like-a-programmer/thought.md)
 * [Variables](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/variables/variables.md)
+  * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/variables/examples.php)  
   * [Homework](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/variables/homework) 
 * [Operators](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/operators/operators.md)
+  * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/operators/examples.php)  
 * [Conditions](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/conditions/conditionals.md)
+  * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/conditions/examples.php)  
 * [Loops](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/loops/loops.md)
+  * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/loops/examples.php)  
 * [Arrays](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/arrays/arrays.md)
+ * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/arrays/examples.php)  
 * [Functions](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/functions/functions.md)
-
+ * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/functions/examples.php)  
 ###Getting Started
 Since we're developing in PHP I'd like you to use WAMP. There are other PHP servers you can set up but this one is easy to use.
 
