@@ -5,6 +5,7 @@
 * [Introduction](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/introduction/intro.md)
 * [Thinking like a programmer](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/thinking-like-a-programmer/thought.md)
 * [Variables](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/variables/variables.md)
+  * [Homework](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/variables/homework) 
 * [Operators](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/operators/operators.md)
 * [Conditions](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/conditions/conditionals.md)
 * [Loops](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/loops/loops.md)
