@@ -18,6 +18,7 @@
   * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/loops/examples.php)  
 * [Arrays](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/arrays/arrays.md)
  * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/arrays/examples.php)  
+ * [Homework](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/arrays/homework/questions.md)
 * [Functions](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/functions/functions.md)
  * [Example Work](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/functions/examples.php)  
 
