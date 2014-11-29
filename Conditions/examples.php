@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+
+<h1>Conditional Statements</h1>
+
 <?php
 /*
     In this program let's take a look at conditional statements and everything fun you can do with them!
@@ -13,20 +17,27 @@ if ($thisIsTrue)
 else
     echo "FALSE?";
 
-// These breaks are for making the output pretty. I can insert html between the outputs to give spacing to each section.
-?>
-<br/>
-<?php
 
-// Let's test out false condition
+// Line break
+echo "<br/>";
+
+// Let's test out false condition (the else)
 if ($thisIsFalse)
     echo "TRUE!!";
 else
     echo "FALSE!";
 
-?>
-<br/>
-<?php
+echo "<br/>";
+
+// What about else if
+if (False)
+    echo "Here?...Nope!";
+else if (True)
+    echo "Else-If is true!";
+else
+    echo "else :(";
+
+echo "<br/>";
 
 $num1 = 10;
 $num2 = 30;
@@ -37,9 +48,7 @@ if ($num1 < $num2)
 else
     echo $num1." is greater than ".$num2;
 
-?>
-<br/>
-<?php
+echo "<br/>";
 
 // let's reverse that
 if ($num1 > $num2)
