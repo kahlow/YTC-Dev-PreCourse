@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<h1>Variables</h1>
+
 <?php
 /*
 Let's walk through the world's worst calculator program. Let's walk through this program line by line and see what's going on.
