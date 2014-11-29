@@ -54,3 +54,11 @@ You should group code that interacts together. For example, don't declare a vari
 
 ###Comments
 Always comment your code. Even better, write code that comments itself. Use your variable names and workflow to explain what you're doing. For example, name your variable used to hold a person's first name 'firstName'. If your variable is named 'firstName' you won't have to comment that it's used for first names. Make sense?
+
+PHP has a couple of ways you can write comments in your code. You'll see me use them in the practice examples.
+
+    // This is a very common comment syntax
+    /* This is also a widely used one. Don't forget to close it using this ->  */
+    # This is also a comment in PHP
+
+It doesn't matter which one you use as long as you use one!
