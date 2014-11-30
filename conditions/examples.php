@@ -56,4 +56,21 @@ if ($num1 > $num2)
 else
     echo $num1." is less than ".$num2;
 
+echo "<br/>";
+
+// It's time for a switch statement
+$food = "hotpockets";
+
+switch ($food) {
+    case "apple":
+        echo "Keep that doctor away!";
+        break;
+    case "cookie":
+        echo "Now we're talking.";
+        break;
+    case "hotpockets":
+        echo "Take me to the hospital.";
+        break;
+}
+
 ?>
