@@ -18,6 +18,7 @@
   * [Practice Program](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/conditions/homework/practice.php)
 * [Loops](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/loops/loops.md)
   * [Code examples](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/loops/examples.php)  
+  * [Homework](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/loops/homework/questions.md)
 * [Arrays](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/arrays/arrays.md)
  * [Code examples](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/arrays/examples.php)  
  * [Homework](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/arrays/homework/questions.md)
