@@ -25,7 +25,8 @@
  * [Homework](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/arrays/homework/questions.md)
  * [Practice Program](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/arrays/homework/practice.php)
 * [Functions](https://github.com/kahlow/YTC-Dev-PreCourse/blob/master/functions/functions.md)
- * [Code examples](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/functions/examples.php)  
+ * [Code examples](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/functions/examples.php)
+ * [Homework](https://github.com/kahlow/YTC-Dev-PreCourse/tree/master/functions/homework/questions.md)
 
 
 ###Getting Started
