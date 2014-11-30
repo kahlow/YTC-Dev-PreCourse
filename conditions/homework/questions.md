@@ -5,12 +5,11 @@
 3. What happens if you don't use a `break` in a switch statement?
 4. Change this nested if statement into a single if statement:
     
-    $con1 = True;
-    $con2 = False;
+        $con1 = True;
+        $con2 = False;
 
-    if ($con1) {
-        if !($con2) {
-            echo "HERE!";
+        if ($con1) {
+            if !($con2) {
+                echo "HERE!";
+            }
         }
-    }
-        
