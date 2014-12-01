@@ -1,8 +1,8 @@
 #Installation
 
 ##Install Instructions
-1. Go to the WAMP website and download the WAMP installer
-  a. You can also find it at [sourceforge](http://sourceforge.net/projects/wampserver/)
+1. Go to the WAMP website and download the WAMP installer.
+ * You can also find it at [sourceforge](http://sourceforge.net/projects/wampserver/)
 2. Install the exe locally. The installation wizard should be pretty easy to figure out. 
 
 ##Using wampserver
